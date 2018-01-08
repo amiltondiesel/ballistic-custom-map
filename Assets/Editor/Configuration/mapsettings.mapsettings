@@ -1,0 +1,46 @@
+﻿{
+    "MapName": "skyoffice",
+    "MapState": 1,
+    "MapSize": 1,
+    "GameModes": [
+        "basic_tdm",
+        "basic_ffa",
+		"basic_koth",
+		"basic_conquest_3_points"
+    ],
+    "ResupplyLocations": [
+        "L1",
+        "L2",
+        "L3",
+        "L4",
+        "L5"
+    ],
+    "MapBounds": {
+        "MinX": -40.0,
+        "MaxX": 40.0,
+        "MinY": -10.0,
+        "MaxY": 10.0,
+        "MinZ": -25.0,
+        "MaxZ": 25.0
+    },
+	"MapNameLocalizationDefault": "SKY OFFICE",
+    "MapNameLocalization": {
+        "list": [
+            { "Key": "en_US", "Value": "SKY OFFICE" },
+            { "Key": "pt_BR", "Value": "SKY OFFICE" },
+            { "Key": "es_MX", "Value": "SKY OFFICE" },
+            { "Key": "fr_FR", "Value": "SKY OFFICE" },
+            { "Key": "de_DE", "Value": "SKY OFFICE" },
+            { "Key": "hr_HR", "Value": "SKY OFFICE" },
+            { "Key": "tr_TR", "Value": "SKY OFFICE" },
+            { "Key": "sv_SE", "Value": "SKY OFFICE" },
+            { "Key": "zn_CH", "Value": "SKY OFFICE" },
+            { "Key": "it_IT", "Value": "SKY OFFICE" },
+            { "Key": "zh_HK", "Value": "SKY OFFICE" },
+            { "Key": "ru_RU", "Value": "SKY OFFICE" },
+            { "Key": "pl_PL", "Value": "SKY OFFICE" },
+            { "Key": "hu_HU", "Value": "SKY OFFICE" },
+            { "Key": "fi_FI", "Value": "SKY OFFICE" }
+        ]
+    }
+}

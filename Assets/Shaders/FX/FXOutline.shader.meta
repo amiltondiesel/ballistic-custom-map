@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 64f525fea33b19342823d8fa9528cd5f
+timeCreated: 1454506335
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _FadeTex: {fileID: 2800000, guid: 13cc507376e17f34dbc48fc6fda927fd, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
